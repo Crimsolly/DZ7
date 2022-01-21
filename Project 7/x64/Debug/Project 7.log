@@ -1,0 +1,7 @@
+﻿  main.cpp
+  mylib.cpp
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 7\Project 7\mylib.cpp(14,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 7\Project 7\mylib.cpp(65,6): error C2065: x: необъявленный идентификатор
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 7\Project 7\mylib.cpp(65,6): error C2065: y: необъявленный идентификатор
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 7\Project 7\mylib.cpp(65,6): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  Создание кода...
